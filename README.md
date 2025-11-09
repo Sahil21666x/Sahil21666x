@@ -21,7 +21,7 @@ A **Personal Finance Tracking App** that helps users manage income, expenses, an
 - Includes **AI-powered insights**, **budget alerts**, and **goal tracking**.  
 - Features like **auto-contribution**, **notifications**, and **privacy settings** for full financial control.  
 
-🔗 [View Repository](https://github.com/SahilMeshram/Wealth-Wizard)
+🔗 [View Repository](https://github.com/Sahil21666x/Wealth-Wizard)
 
 ---
 
@@ -31,7 +31,7 @@ A **React.js-based Admin Dashboard** for managing social media content and user 
 - Uses **Chart.js/Recharts** for real-time data visualization.  
 - Integrated APIs for scheduling and monitoring automated posts.  
 
-🔗 [View Repository](https://github.com/SahilMeshram/Echosphere)
+🔗 [View Repository](https://github.com/Sahil21666x/Echosphere)
 
 ---
 
@@ -41,7 +41,7 @@ An **E-commerce garments website** built using HTML, CSS, JavaScript, Node.js, a
 - Product listing, search, and shopping cart functionality.  
 - Responsive design and smooth UI.  
 
-🔗 [View Repository](https://github.com/SahilMeshram/iGarment)
+🔗 [View Repository](https://github.com/Sahil21666x/iGarment)
 ---
 
 ### 🏆 Highlights  
