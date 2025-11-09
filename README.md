@@ -59,8 +59,8 @@ An **E-commerce garments website** built using HTML, CSS, JavaScript, Node.js, a
 ---
 
 ### 📊 GitHub Stats  
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?Sahil21666x=SahilMeshram&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Sahil21666x=SahilMeshram&layout=compact&theme=tokyonight)  
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil21666x&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil21666x&layout=compact&theme=tokyonight)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahil21666x&color=blue)
 
 ---
