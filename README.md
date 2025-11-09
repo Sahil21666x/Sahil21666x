@@ -6,19 +6,42 @@ I enjoy working with the latest web technologies and continuously improving my d
 ---
 
 ### 🧰 Tech Stack  
-- 💻 **Languages:** JavaScript, Java, Python  
-- ⚙️ **Frameworks & Libraries:** React.js, Node.js, Express, Spring Boot  
+- 💻 **Languages:** JavaScript,Typescript, Java, C 
+- ⚙️ **Frameworks & Libraries:** React.js, Node.js, Express, Spring Boot,Next.js  
 - 🛢️ **Databases:** MongoDB, MySQL  
 - 🎨 **Frontend:** HTML, CSS, Tailwind CSS  
-- ☁️ **Tools & Platforms:** Git, Docker, Postman, VS Code  
+- ☁️ **Tools & Platforms:** Git,Redis,Docker, Postman, VS Code  
 
 ---
 
 ### 📈 Featured Projects  
-- 🛒 **iGarment** – E-commerce garments website built with HTML, CSS, JavaScript, Node.js, and MongoDB  
-- 🤖 **AI Sales Chatbot** – Smart sales assistant using React and Django  
-- 💼 **Digital Marketing Portfolio** – Showcasing marketing projects and analytics with responsive design  
+#### 🧠 Wealth Wizard  
+A **Personal Finance Tracking App** that helps users manage income, expenses, and savings goals efficiently.  
+- Built using **React.js**, **Node.js/Express**, and **MongoDB**.  
+- Includes **AI-powered insights**, **budget alerts**, and **goal tracking**.  
+- Features like **auto-contribution**, **notifications**, and **privacy settings** for full financial control.  
 
+🔗 [View Repository](https://github.com/SahilMeshram/Wealth-Wizard)
+
+---
+
+#### 📱 Echosphere – Social Media Automation  
+A **React.js-based Admin Dashboard** for managing social media content and user engagement.  
+- Includes **OpenAi Integration** **user management**, **content moderation**, and **analytics dashboards**.  
+- Uses **Chart.js/Recharts** for real-time data visualization.  
+- Integrated APIs for scheduling and monitoring automated posts.  
+
+🔗 [View Repository](https://github.com/SahilMeshram/Echosphere)
+
+---
+
+#### 🛒 iGarment  
+An **E-commerce garments website** built using HTML, CSS, JavaScript, Node.js, and MongoDB.  
+- User authentication with JWT.  
+- Product listing, search, and shopping cart functionality.  
+- Responsive design and smooth UI.  
+
+🔗 [View Repository](https://github.com/SahilMeshram/iGarment)
 ---
 
 ### 🏆 Highlights  
@@ -30,15 +53,15 @@ I enjoy working with the latest web technologies and continuously improving my d
 
 ### 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-meshram-422193253)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SahilMeshram)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sahil21666x)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sahilmeshram222@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats  
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilMeshram&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMeshram&layout=compact&theme=tokyonight)  
-![Profile Views](https://komarev.com/ghpvc/?username=SahilMeshram&color=blue)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?Sahil21666x=SahilMeshram&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Sahil21666x=SahilMeshram&layout=compact&theme=tokyonight)  
+![Profile Views](https://komarev.com/ghpvc/?username=Sahil21666x&color=blue)
 
 ---
 
